@@ -1,0 +1,63 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+body{
+
+    background-color: #454545;
+    align-items: center;
+    margin: auto;
+}
+
+.login_form {
+
+    background-color: #999999;
+    height: 250px;
+    width: 450px;
+    border-style: solid;
+    border-width: 3px;
+    border-radius:15px;
+    text-align: center;
+
+    margin: auto;
+    padding: 33px;
+   
+    
+}
+
+
+
+img{
+
+
+    height: 100px;
+    width: 250px;
+    font-size: large;
+    margin-left: 43%;
+    margin-top: 50px;
+
+
+}
+
+label{
+    margin-left: 20px;
+}
+
+input{
+
+    margin-top: 20px;
+    margin-right: 40px;
+    font-size: large;
+    margin-left: 20px;
+}
+
+button{
+   
+    margin-top: 20px;
+    font-size: large;
+}
+
+
+
